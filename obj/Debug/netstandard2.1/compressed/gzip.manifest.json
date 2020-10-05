@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/BgUn6q3Gjm5iPerM3LPX1gYd_P09EnyWlEoCvq1nXds=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/A1jO8eiSbOcvcNv5JdCwk1fv3rrBRMcZxlvLooA3Vyw=.hash",
       "Source": "\/home\/dcox\/Documents\/ClCalc\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/ClCalc.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/ClCalc.dll.gz"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/-UUjfzGpiTHVXR4o4_2U9x0mgsU4vcZz4abbpm7h9Sw=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/XDzIiTzY1LAi1YXlc5IN2pR1kxEBCSfCAtgoifaKJNk=.hash",
       "Source": "\/home\/dcox\/Documents\/ClCalc\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/ClCalc.pdb",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/ClCalc.pdb.gz"
     },
@@ -286,7 +286,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/y2tYg5IxVT0qMAReZjjlYHz2RZJ2swS0E2V5yeKQ-i0=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/0_1enKyQZEMN61xxmxau8BJihbSSBxd1Xa8bOa0pWeM=.hash",
       "Source": "\/home\/dcox\/Documents\/ClCalc\/obj\/Debug\/netstandard2.1\/blazor\/blazor.boot.json",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.boot.json.gz"
     }

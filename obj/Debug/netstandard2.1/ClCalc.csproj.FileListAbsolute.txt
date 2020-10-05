@@ -356,6 +356,6 @@
 /home/dcox/Documents/ClCalc/obj/Debug/netstandard2.1/ClCalc.pdb
 /home/dcox/Documents/ClCalc/obj/Debug/netstandard2.1/RazorDeclaration/Pages/CompondInterest.razor.g.cs
 /home/dcox/Documents/ClCalc/obj/Debug/netstandard2.1/Razor/Pages/CompondInterest.razor.g.cs
-/home/dcox/Documents/ClCalc/obj/Debug/netstandard2.1/integrity/BgUn6q3Gjm5iPerM3LPX1gYd_P09EnyWlEoCvq1nXds=.hash
-/home/dcox/Documents/ClCalc/obj/Debug/netstandard2.1/integrity/-UUjfzGpiTHVXR4o4_2U9x0mgsU4vcZz4abbpm7h9Sw=.hash
-/home/dcox/Documents/ClCalc/obj/Debug/netstandard2.1/integrity/y2tYg5IxVT0qMAReZjjlYHz2RZJ2swS0E2V5yeKQ-i0=.hash
+/home/dcox/Documents/ClCalc/obj/Debug/netstandard2.1/integrity/A1jO8eiSbOcvcNv5JdCwk1fv3rrBRMcZxlvLooA3Vyw=.hash
+/home/dcox/Documents/ClCalc/obj/Debug/netstandard2.1/integrity/XDzIiTzY1LAi1YXlc5IN2pR1kxEBCSfCAtgoifaKJNk=.hash
+/home/dcox/Documents/ClCalc/obj/Debug/netstandard2.1/integrity/0_1enKyQZEMN61xxmxau8BJihbSSBxd1Xa8bOa0pWeM=.hash
